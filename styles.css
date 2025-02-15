@@ -1,3 +1,14 @@
 body {
-    background-color: #e2a3a3;
+    background-color: #fcfffe;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.wrapper {
+    background-color: #dbcdec;
+    width: 75%;
+    height: 100vh;
+    margin: 20px;
 }
